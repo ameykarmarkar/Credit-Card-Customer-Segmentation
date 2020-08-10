@@ -1,0 +1,5 @@
+1. Update the input file path of csv file.
+2. Python file name is - CustomerSegmentationFinal.py
+3. R file name is - CustomerSegmentation.R
+4. Python Cluseterd CSV used for tableau visualisation - clustered_credit_card.csv
+5. Report is generated based on the analysis based on the Python code.
